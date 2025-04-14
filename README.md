@@ -3,3 +3,4 @@ Kursene kan starte f.eks januar og vare til juni (et semester). Kursene blir fak
 Programmet skal periodisere faktureringsbeløp på de månedne kursene pågår. 
 Programmet lager en ferdig csv-fil som kan importeres i Tripletex. Det ligger med en excel testfil som dere kan teste programmet med.
 Kilde ChatGTP 4.0
+Ole Petter LIlleengen
